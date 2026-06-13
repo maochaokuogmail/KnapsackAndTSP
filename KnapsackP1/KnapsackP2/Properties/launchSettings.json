@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KnapsackP2": {
+      "commandName": "Project",
+      "commandLineArgs": "1 5 20 3"
+    }
+  }
+}
